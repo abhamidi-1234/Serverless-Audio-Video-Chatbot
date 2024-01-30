@@ -4,3 +4,5 @@ In simple terms, this project is like having a virtual assistant for students. P
 
 ## Basic Streamlit App for demo
 
+![Img](https://github.com/abhamidi-1234/Serverless-Audio-Video-Chatbot/blob/main/Streamlit%20App/Capture1.PNG)
+

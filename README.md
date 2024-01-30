@@ -4,13 +4,13 @@ In simple terms, this project is like having a virtual assistant for students. P
 
 ## Basic Streamlit App for demo
 
-**Uploaded file:** 'Prompt Engineering of ChatGPT to Improve Generated Code & Runtime Performance Compared with the Top-Voted Human Solutions' Paper converted to audio using a Text-to-Speech service.
+**-> Uploaded file:** 'Prompt Engineering of ChatGPT to Improve Generated Code & Runtime Performance Compared with the Top-Voted Human Solutions' Paper converted to audio using a Text-to-Speech service.
 
 ![Img](https://github.com/abhamidi-1234/Serverless-Audio-Video-Chatbot/blob/main/Streamlit%20App/Capture1.PNG)
 
-**Question asked**: What is the name of the research paper? Who are the authors? What problems from Stack Overflow did they use? What prompting strategies did they use? Summarize the paper for me.
+**-> Question asked**: What is the name of the research paper? Who are the authors? What problems from Stack Overflow did they use? What prompting strategies did they use? Summarize the paper for me.
 
-**Response from Chatbot:** 
+**-> Response from Chatbot:** 
 
 *The name of the research paper is "Prompt Engineering of ChatGPT to Improve Generated Code and Runtime Performance Compared with the Top-Voted Human Solutions."*
 

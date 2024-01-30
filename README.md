@@ -19,7 +19,7 @@ In simple terms, this project is like having a virtual assistant for students. P
 *The paper presents the results of a study that compared the runtime performance of the best-performing coding solution generated with ChatGPT to the top-voted human-produced code on Stack Overflow. They selected 15 problems from Stack Overflow, which were grouped into two classes: one related to arrays and the other related to linked lists.*
 
 *The problems from Stack Overflow that were used in the study include:*
-1.* *Identify missing numbers in an unsorted array.*
+1. *Identify missing numbers in an unsorted array.*
 2. *Detect a duplicate number in an array that is not sorted.*
 3. *Given an unsorted array, find the indices of the k smallest numbers.*
 4. *Count pairs of elements in an array with a given sum.*

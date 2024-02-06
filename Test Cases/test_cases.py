@@ -12,7 +12,7 @@ def test_audio_upload_success():
 
 def test_audio_upload_failure():
     # Attempt to upload an audio file exceeding size limit
-    # Simulate network errors during upload process
+    # Whisper currently supports file size of upto 25 Mb
     try:
         s3 = boto3.client('s3')
         file_path = 'large_audio.mp3'  # file size exceeds limit of 25 Mb
